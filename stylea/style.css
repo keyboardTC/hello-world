@@ -1,0 +1,32 @@
+ /* Type selector  */
+
+
+
+body{
+  padding: 0rem 2rem;
+}
+
+h2 {
+	background-color: black;
+	color: white;
+  padding: 6px 20px;
+}
+em{
+  font-weight:bold;
+}
+
+/* Class selector */
+.header-div{
+  float: left;
+  margin-inline-end: 20px;
+}
+.details {
+  background-color:green;
+  padding: 6px 20px;
+}
+.highlight{
+  background-color:#eee8aa;
+}
+h3, p {
+  padding: 0px 20px;
+}
